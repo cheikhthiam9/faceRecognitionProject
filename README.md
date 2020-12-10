@@ -5,3 +5,6 @@ we seek to create our own smart door lock that utilizes facial recognition to pr
 How it works is that the software will capture an image of an individual posing in front of a camera. 
 This image will  then be compared to the dataset that will be saved in a database. 
 If the image captured by the software is identical to one of the images saved in the database, the door will unlock.
+
+More details (including how to run the program) can be found in the following link:
+https://docs.google.com/document/d/1VjbfVcFC_jfYUh1blpxPqV0VqDjcnykGs75Owf2UbpA/edit
